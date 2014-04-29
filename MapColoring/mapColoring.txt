@@ -1,0 +1,1302 @@
+--------- OPTION Inforamtion ---------
+% Log ON: 0
+% SAVE ON: 1
+% SHOW WINDOW ON: 1
+% ALL EDGE ON: 1
+
+% MAP SIZE: 10 X 10
+% NUMBER of EDGES: 87
+% NUMBER of COLORS: 3
+
+--------- POINT & LINE Informaiton ---------
+Point0: (8, 5)
+	Edge1: (0, 45)
+	Edge2: (0, 8)
+	Edge3: (0, 39)
+Point1: (5, 9)
+	Edge1: (1, 7)
+	Edge2: (1, 5)
+	Edge3: (1, 18)
+	Edge4: (1, 17)
+	Edge5: (1, 21)
+	Edge6: (1, 31)
+Point2: (8, 9)
+	Edge1: (2, 26)
+	Edge2: (2, 17)
+	Edge3: (2, 36)
+Point3: (0, 6)
+	Edge1: (3, 23)
+	Edge2: (3, 32)
+	Edge3: (3, 49)
+Point4: (2, 9)
+	Edge1: (4, 27)
+	Edge2: (4, 49)
+	Edge3: (4, 7)
+Point5: (6, 9)
+	Edge1: (5, 1)
+	Edge2: (5, 26)
+Point6: (5, 7)
+	Edge1: (6, 40)
+	Edge2: (6, 47)
+	Edge3: (6, 10)
+	Edge4: (6, 15)
+Point7: (4, 9)
+	Edge1: (7, 1)
+	Edge2: (7, 18)
+	Edge3: (7, 4)
+	Edge4: (7, 27)
+Point8: (4, 5)
+	Edge1: (8, 15)
+	Edge2: (8, 38)
+	Edge3: (8, 0)
+Point9: (9, 3)
+	Edge1: (9, 19)
+	Edge2: (9, 36)
+	Edge3: (9, 37)
+Point10: (6, 6)
+	Edge1: (10, 6)
+	Edge2: (10, 31)
+	Edge3: (10, 45)
+	Edge4: (10, 15)
+Point11: (1, 5)
+	Edge1: (11, 39)
+	Edge2: (11, 32)
+Point12: (7, 4)
+	Edge1: (12, 19)
+	Edge2: (12, 20)
+	Edge3: (12, 44)
+Point13: (6, 2)
+	Edge1: (13, 16)
+	Edge2: (13, 48)
+	Edge3: (13, 19)
+	Edge4: (13, 29)
+Point14: (9, 0)
+	Edge1: (14, 37)
+	Edge2: (14, 24)
+	Edge3: (14, 35)
+Point15: (4, 6)
+	Edge1: (15, 8)
+	Edge2: (15, 47)
+	Edge3: (15, 6)
+	Edge4: (15, 22)
+	Edge5: (15, 10)
+	Edge6: (15, 32)
+Point16: (7, 2)
+	Edge1: (16, 13)
+	Edge2: (16, 19)
+	Edge3: (16, 33)
+	Edge4: (16, 35)
+Point17: (8, 8)
+	Edge1: (17, 2)
+	Edge2: (17, 21)
+	Edge3: (17, 26)
+	Edge4: (17, 1)
+Point18: (4, 8)
+	Edge1: (18, 27)
+	Edge2: (18, 7)
+	Edge3: (18, 1)
+	Edge4: (18, 47)
+Point19: (7, 3)
+	Edge1: (19, 12)
+	Edge2: (19, 16)
+	Edge3: (19, 28)
+	Edge4: (19, 13)
+	Edge5: (19, 20)
+	Edge6: (19, 33)
+	Edge7: (19, 44)
+	Edge8: (19, 9)
+Point20: (6, 4)
+	Edge1: (20, 12)
+	Edge2: (20, 19)
+Point21: (8, 7)
+	Edge1: (21, 17)
+	Edge2: (21, 31)
+	Edge3: (21, 45)
+	Edge4: (21, 36)
+	Edge5: (21, 1)
+Point22: (3, 7)
+	Edge1: (22, 27)
+	Edge2: (22, 32)
+	Edge3: (22, 15)
+Point23: (0, 3)
+	Edge1: (23, 34)
+	Edge2: (23, 39)
+	Edge3: (23, 3)
+	Edge4: (23, 25)
+	Edge5: (23, 29)
+	Edge6: (23, 46)
+Point24: (8, 1)
+	Edge1: (24, 33)
+	Edge2: (24, 14)
+	Edge3: (24, 35)
+Point25: (3, 3)
+	Edge1: (25, 42)
+	Edge2: (25, 23)
+	Edge3: (25, 41)
+Point26: (7, 9)
+	Edge1: (26, 2)
+	Edge2: (26, 5)
+	Edge3: (26, 17)
+Point27: (2, 8)
+	Edge1: (27, 4)
+	Edge2: (27, 22)
+	Edge3: (27, 49)
+	Edge4: (27, 18)
+	Edge5: (27, 32)
+	Edge6: (27, 7)
+Point28: (6, 3)
+	Edge1: (28, 41)
+	Edge2: (28, 19)
+Point29: (4, 0)
+	Edge1: (29, 48)
+	Edge2: (29, 43)
+	Edge3: (29, 46)
+	Edge4: (29, 13)
+	Edge5: (29, 23)
+Point30: (0, 1)
+	Edge1: (30, 34)
+	Edge2: (30, 46)
+Point31: (7, 7)
+	Edge1: (31, 21)
+	Edge2: (31, 40)
+	Edge3: (31, 10)
+	Edge4: (31, 45)
+	Edge5: (31, 1)
+Point32: (2, 6)
+	Edge1: (32, 11)
+	Edge2: (32, 27)
+	Edge3: (32, 22)
+	Edge4: (32, 3)
+	Edge5: (32, 15)
+Point33: (8, 2)
+	Edge1: (33, 24)
+	Edge2: (33, 16)
+	Edge3: (33, 19)
+Point34: (0, 2)
+	Edge1: (34, 23)
+	Edge2: (34, 30)
+	Edge3: (34, 46)
+Point35: (7, 0)
+	Edge1: (35, 48)
+	Edge2: (35, 14)
+	Edge3: (35, 24)
+	Edge4: (35, 16)
+Point36: (9, 6)
+	Edge1: (36, 45)
+	Edge2: (36, 21)
+	Edge3: (36, 2)
+	Edge4: (36, 9)
+Point37: (9, 1)
+	Edge1: (37, 14)
+	Edge2: (37, 9)
+Point38: (3, 5)
+	Edge1: (38, 8)
+Point39: (1, 4)
+	Edge1: (39, 11)
+	Edge2: (39, 23)
+	Edge3: (39, 42)
+	Edge4: (39, 0)
+Point40: (6, 7)
+	Edge1: (40, 6)
+	Edge2: (40, 31)
+Point41: (5, 3)
+	Edge1: (41, 28)
+	Edge2: (41, 25)
+Point42: (3, 4)
+	Edge1: (42, 25)
+	Edge2: (42, 39)
+Point43: (4, 2)
+	Edge1: (43, 29)
+Point44: (8, 4)
+	Edge1: (44, 12)
+	Edge2: (44, 19)
+Point45: (8, 6)
+	Edge1: (45, 21)
+	Edge2: (45, 36)
+	Edge3: (45, 0)
+	Edge4: (45, 31)
+	Edge5: (45, 10)
+Point46: (2, 0)
+	Edge1: (46, 29)
+	Edge2: (46, 30)
+	Edge3: (46, 34)
+	Edge4: (46, 23)
+Point47: (4, 7)
+	Edge1: (47, 6)
+	Edge2: (47, 15)
+	Edge3: (47, 18)
+Point48: (5, 0)
+	Edge1: (48, 29)
+	Edge2: (48, 35)
+	Edge3: (48, 13)
+Point49: (1, 9)
+	Edge1: (49, 4)
+	Edge2: (49, 27)
+	Edge3: (49, 3)
+
+--------- MAP-COLORING Informaiton ---------
+
+Start map Coloring using Backtracking
+Selected Variable is 19th Point
+	19th Point Select Color RED
+Selected Variable is 1th Point
+	1th Point Select Color RED
+Selected Variable is 15th Point
+	15th Point Select Color RED
+Selected Variable is 23th Point
+	23th Point Select Color RED
+Selected Variable is 27th Point
+	27th Point Select Color RED
+Selected Variable is 21th Point
+	21th Point Select Color GREEN
+Selected Variable is 29th Point
+	29th Point Select Color GREEN
+Selected Variable is 31th Point
+	31th Point Select Color YELLOW
+Selected Variable is 32th Point
+	32th Point Select Color GREEN
+Selected Variable is 45th Point
+	45th Point Select Color RED
+Selected Variable is 6th Point
+	6th Point Select Color GREEN
+Selected Variable is 7th Point
+	7th Point Select Color GREEN
+Selected Variable is 10th Point
+	7th Point Remove Color GREEN
+	7th Point Select Color YELLOW
+Selected Variable is 10th Point
+	7th Point Remove Color YELLOW
+	6th Point Remove Color GREEN
+	6th Point Select Color YELLOW
+Selected Variable is 7th Point
+	7th Point Select Color GREEN
+Selected Variable is 10th Point
+	10th Point Select Color GREEN
+Selected Variable is 13th Point
+	13th Point Select Color YELLOW
+Selected Variable is 16th Point
+	16th Point Select Color GREEN
+Selected Variable is 17th Point
+	17th Point Select Color YELLOW
+Selected Variable is 18th Point
+	18th Point Select Color YELLOW
+Selected Variable is 35th Point
+	35th Point Select Color RED
+Selected Variable is 36th Point
+	36th Point Select Color YELLOW
+Selected Variable is 39th Point
+	39th Point Select Color GREEN
+Selected Variable is 46th Point
+	46th Point Select Color YELLOW
+Selected Variable is 0th Point
+	0th Point Select Color YELLOW
+Selected Variable is 2th Point
+	2th Point Select Color RED
+Selected Variable is 3th Point
+	3th Point Select Color YELLOW
+Selected Variable is 4th Point
+	4th Point Select Color YELLOW
+Selected Variable is 8th Point
+	8th Point Select Color GREEN
+Selected Variable is 9th Point
+	9th Point Select Color GREEN
+Selected Variable is 12th Point
+	12th Point Select Color GREEN
+Selected Variable is 14th Point
+	14th Point Select Color GREEN
+Selected Variable is 22th Point
+	22th Point Select Color YELLOW
+Selected Variable is 24th Point
+	24th Point Select Color YELLOW
+Selected Variable is 25th Point
+	25th Point Select Color GREEN
+Selected Variable is 26th Point
+	26th Point Select Color GREEN
+Selected Variable is 33th Point
+	26th Point Remove Color GREEN
+	25th Point Remove Color GREEN
+	25th Point Select Color YELLOW
+Selected Variable is 26th Point
+	26th Point Select Color GREEN
+Selected Variable is 33th Point
+	26th Point Remove Color GREEN
+	25th Point Remove Color YELLOW
+	24th Point Remove Color YELLOW
+	22th Point Remove Color YELLOW
+	14th Point Remove Color GREEN
+	14th Point Select Color YELLOW
+Selected Variable is 22th Point
+	22th Point Select Color YELLOW
+Selected Variable is 24th Point
+	24th Point Select Color GREEN
+Selected Variable is 25th Point
+	25th Point Select Color GREEN
+Selected Variable is 26th Point
+	26th Point Select Color GREEN
+Selected Variable is 33th Point
+	33th Point Select Color YELLOW
+Selected Variable is 34th Point
+	34th Point Select Color GREEN
+Selected Variable is 47th Point
+	47th Point Select Color GREEN
+Selected Variable is 48th Point
+	47th Point Remove Color GREEN
+	34th Point Remove Color GREEN
+	33th Point Remove Color YELLOW
+	26th Point Remove Color GREEN
+	25th Point Remove Color GREEN
+	25th Point Select Color YELLOW
+Selected Variable is 26th Point
+	26th Point Select Color GREEN
+Selected Variable is 33th Point
+	33th Point Select Color YELLOW
+Selected Variable is 34th Point
+	34th Point Select Color GREEN
+Selected Variable is 47th Point
+	47th Point Select Color GREEN
+Selected Variable is 48th Point
+	47th Point Remove Color GREEN
+	34th Point Remove Color GREEN
+	33th Point Remove Color YELLOW
+	26th Point Remove Color GREEN
+	25th Point Remove Color YELLOW
+	24th Point Remove Color GREEN
+	22th Point Remove Color YELLOW
+	14th Point Remove Color YELLOW
+	12th Point Remove Color GREEN
+	12th Point Select Color YELLOW
+Selected Variable is 14th Point
+	14th Point Select Color GREEN
+Selected Variable is 22th Point
+	22th Point Select Color YELLOW
+Selected Variable is 24th Point
+	24th Point Select Color YELLOW
+Selected Variable is 25th Point
+	25th Point Select Color GREEN
+Selected Variable is 26th Point
+	26th Point Select Color GREEN
+Selected Variable is 33th Point
+	26th Point Remove Color GREEN
+	25th Point Remove Color GREEN
+	25th Point Select Color YELLOW
+Selected Variable is 26th Point
+	26th Point Select Color GREEN
+Selected Variable is 33th Point
+	26th Point Remove Color GREEN
+	25th Point Remove Color YELLOW
+	24th Point Remove Color YELLOW
+	22th Point Remove Color YELLOW
+	14th Point Remove Color GREEN
+	14th Point Select Color YELLOW
+Selected Variable is 22th Point
+	22th Point Select Color YELLOW
+Selected Variable is 24th Point
+	24th Point Select Color GREEN
+Selected Variable is 25th Point
+	25th Point Select Color GREEN
+Selected Variable is 26th Point
+	26th Point Select Color GREEN
+Selected Variable is 33th Point
+	33th Point Select Color YELLOW
+Selected Variable is 34th Point
+	34th Point Select Color GREEN
+Selected Variable is 47th Point
+	47th Point Select Color GREEN
+Selected Variable is 48th Point
+	47th Point Remove Color GREEN
+	34th Point Remove Color GREEN
+	33th Point Remove Color YELLOW
+	26th Point Remove Color GREEN
+	25th Point Remove Color GREEN
+	25th Point Select Color YELLOW
+Selected Variable is 26th Point
+	26th Point Select Color GREEN
+Selected Variable is 33th Point
+	33th Point Select Color YELLOW
+Selected Variable is 34th Point
+	34th Point Select Color GREEN
+Selected Variable is 47th Point
+	47th Point Select Color GREEN
+Selected Variable is 48th Point
+	47th Point Remove Color GREEN
+	34th Point Remove Color GREEN
+	33th Point Remove Color YELLOW
+	26th Point Remove Color GREEN
+	25th Point Remove Color YELLOW
+	24th Point Remove Color GREEN
+	22th Point Remove Color YELLOW
+	14th Point Remove Color YELLOW
+	12th Point Remove Color YELLOW
+	9th Point Remove Color GREEN
+	8th Point Remove Color GREEN
+	4th Point Remove Color YELLOW
+	3th Point Remove Color YELLOW
+	2th Point Remove Color RED
+	2th Point Select Color GREEN
+Selected Variable is 3th Point
+	3th Point Select Color YELLOW
+Selected Variable is 4th Point
+	4th Point Select Color YELLOW
+Selected Variable is 8th Point
+	8th Point Select Color GREEN
+Selected Variable is 9th Point
+	9th Point Select Color GREEN
+Selected Variable is 12th Point
+	12th Point Select Color GREEN
+Selected Variable is 14th Point
+	14th Point Select Color GREEN
+Selected Variable is 22th Point
+	22th Point Select Color YELLOW
+Selected Variable is 24th Point
+	24th Point Select Color YELLOW
+Selected Variable is 25th Point
+	25th Point Select Color GREEN
+Selected Variable is 26th Point
+	26th Point Select Color RED
+Selected Variable is 33th Point
+	26th Point Remove Color RED
+	25th Point Remove Color GREEN
+	25th Point Select Color YELLOW
+Selected Variable is 26th Point
+	26th Point Select Color RED
+Selected Variable is 33th Point
+	26th Point Remove Color RED
+	25th Point Remove Color YELLOW
+	24th Point Remove Color YELLOW
+	22th Point Remove Color YELLOW
+	14th Point Remove Color GREEN
+	14th Point Select Color YELLOW
+Selected Variable is 22th Point
+	22th Point Select Color YELLOW
+Selected Variable is 24th Point
+	24th Point Select Color GREEN
+Selected Variable is 25th Point
+	25th Point Select Color GREEN
+Selected Variable is 26th Point
+	26th Point Select Color RED
+Selected Variable is 33th Point
+	33th Point Select Color YELLOW
+Selected Variable is 34th Point
+	34th Point Select Color GREEN
+Selected Variable is 47th Point
+	47th Point Select Color GREEN
+Selected Variable is 48th Point
+	47th Point Remove Color GREEN
+	34th Point Remove Color GREEN
+	33th Point Remove Color YELLOW
+	26th Point Remove Color RED
+	25th Point Remove Color GREEN
+	25th Point Select Color YELLOW
+Selected Variable is 26th Point
+	26th Point Select Color RED
+Selected Variable is 33th Point
+	33th Point Select Color YELLOW
+Selected Variable is 34th Point
+	34th Point Select Color GREEN
+Selected Variable is 47th Point
+	47th Point Select Color GREEN
+Selected Variable is 48th Point
+	47th Point Remove Color GREEN
+	34th Point Remove Color GREEN
+	33th Point Remove Color YELLOW
+	26th Point Remove Color RED
+	25th Point Remove Color YELLOW
+	24th Point Remove Color GREEN
+	22th Point Remove Color YELLOW
+	14th Point Remove Color YELLOW
+	12th Point Remove Color GREEN
+	12th Point Select Color YELLOW
+Selected Variable is 14th Point
+	14th Point Select Color GREEN
+Selected Variable is 22th Point
+	22th Point Select Color YELLOW
+Selected Variable is 24th Point
+	24th Point Select Color YELLOW
+Selected Variable is 25th Point
+	25th Point Select Color GREEN
+Selected Variable is 26th Point
+	26th Point Select Color RED
+Selected Variable is 33th Point
+	26th Point Remove Color RED
+	25th Point Remove Color GREEN
+	25th Point Select Color YELLOW
+Selected Variable is 26th Point
+	26th Point Select Color RED
+Selected Variable is 33th Point
+	26th Point Remove Color RED
+	25th Point Remove Color YELLOW
+	24th Point Remove Color YELLOW
+	22th Point Remove Color YELLOW
+	14th Point Remove Color GREEN
+	14th Point Select Color YELLOW
+Selected Variable is 22th Point
+	22th Point Select Color YELLOW
+Selected Variable is 24th Point
+	24th Point Select Color GREEN
+Selected Variable is 25th Point
+	25th Point Select Color GREEN
+Selected Variable is 26th Point
+	26th Point Select Color RED
+Selected Variable is 33th Point
+	33th Point Select Color YELLOW
+Selected Variable is 34th Point
+	34th Point Select Color GREEN
+Selected Variable is 47th Point
+	47th Point Select Color GREEN
+Selected Variable is 48th Point
+	47th Point Remove Color GREEN
+	34th Point Remove Color GREEN
+	33th Point Remove Color YELLOW
+	26th Point Remove Color RED
+	25th Point Remove Color GREEN
+	25th Point Select Color YELLOW
+Selected Variable is 26th Point
+	26th Point Select Color RED
+Selected Variable is 33th Point
+	33th Point Select Color YELLOW
+Selected Variable is 34th Point
+	34th Point Select Color GREEN
+Selected Variable is 47th Point
+	47th Point Select Color GREEN
+Selected Variable is 48th Point
+	47th Point Remove Color GREEN
+	34th Point Remove Color GREEN
+	33th Point Remove Color YELLOW
+	26th Point Remove Color RED
+	25th Point Remove Color YELLOW
+	24th Point Remove Color GREEN
+	22th Point Remove Color YELLOW
+	14th Point Remove Color YELLOW
+	12th Point Remove Color YELLOW
+	9th Point Remove Color GREEN
+	8th Point Remove Color GREEN
+	4th Point Remove Color YELLOW
+	3th Point Remove Color YELLOW
+	2th Point Remove Color GREEN
+	0th Point Remove Color YELLOW
+	46th Point Remove Color YELLOW
+	39th Point Remove Color GREEN
+	39th Point Select Color YELLOW
+Selected Variable is 46th Point
+	46th Point Select Color YELLOW
+Selected Variable is 0th Point
+	0th Point Select Color GREEN
+Selected Variable is 2th Point
+	2th Point Select Color RED
+Selected Variable is 3th Point
+	3th Point Select Color YELLOW
+Selected Variable is 4th Point
+	4th Point Select Color YELLOW
+Selected Variable is 8th Point
+	8th Point Select Color YELLOW
+Selected Variable is 9th Point
+	9th Point Select Color GREEN
+Selected Variable is 12th Point
+	12th Point Select Color GREEN
+Selected Variable is 14th Point
+	14th Point Select Color GREEN
+Selected Variable is 22th Point
+	22th Point Select Color YELLOW
+Selected Variable is 24th Point
+	24th Point Select Color YELLOW
+Selected Variable is 25th Point
+	25th Point Select Color GREEN
+Selected Variable is 26th Point
+	26th Point Select Color GREEN
+Selected Variable is 33th Point
+	26th Point Remove Color GREEN
+	25th Point Remove Color GREEN
+	25th Point Select Color YELLOW
+Selected Variable is 26th Point
+	26th Point Select Color GREEN
+Selected Variable is 33th Point
+	26th Point Remove Color GREEN
+	25th Point Remove Color YELLOW
+	24th Point Remove Color YELLOW
+	22th Point Remove Color YELLOW
+	14th Point Remove Color GREEN
+	14th Point Select Color YELLOW
+Selected Variable is 22th Point
+	22th Point Select Color YELLOW
+Selected Variable is 24th Point
+	24th Point Select Color GREEN
+Selected Variable is 25th Point
+	25th Point Select Color GREEN
+Selected Variable is 26th Point
+	26th Point Select Color GREEN
+Selected Variable is 33th Point
+	33th Point Select Color YELLOW
+Selected Variable is 34th Point
+	34th Point Select Color GREEN
+Selected Variable is 47th Point
+	47th Point Select Color GREEN
+Selected Variable is 48th Point
+	47th Point Remove Color GREEN
+	34th Point Remove Color GREEN
+	33th Point Remove Color YELLOW
+	26th Point Remove Color GREEN
+	25th Point Remove Color GREEN
+	25th Point Select Color YELLOW
+Selected Variable is 26th Point
+	26th Point Select Color GREEN
+Selected Variable is 33th Point
+	33th Point Select Color YELLOW
+Selected Variable is 34th Point
+	34th Point Select Color GREEN
+Selected Variable is 47th Point
+	47th Point Select Color GREEN
+Selected Variable is 48th Point
+	47th Point Remove Color GREEN
+	34th Point Remove Color GREEN
+	33th Point Remove Color YELLOW
+	26th Point Remove Color GREEN
+	25th Point Remove Color YELLOW
+	24th Point Remove Color GREEN
+	22th Point Remove Color YELLOW
+	14th Point Remove Color YELLOW
+	12th Point Remove Color GREEN
+	12th Point Select Color YELLOW
+Selected Variable is 14th Point
+	14th Point Select Color GREEN
+Selected Variable is 22th Point
+	22th Point Select Color YELLOW
+Selected Variable is 24th Point
+	24th Point Select Color YELLOW
+Selected Variable is 25th Point
+	25th Point Select Color GREEN
+Selected Variable is 26th Point
+	26th Point Select Color GREEN
+Selected Variable is 33th Point
+	26th Point Remove Color GREEN
+	25th Point Remove Color GREEN
+	25th Point Select Color YELLOW
+Selected Variable is 26th Point
+	26th Point Select Color GREEN
+Selected Variable is 33th Point
+	26th Point Remove Color GREEN
+	25th Point Remove Color YELLOW
+	24th Point Remove Color YELLOW
+	22th Point Remove Color YELLOW
+	14th Point Remove Color GREEN
+	14th Point Select Color YELLOW
+Selected Variable is 22th Point
+	22th Point Select Color YELLOW
+Selected Variable is 24th Point
+	24th Point Select Color GREEN
+Selected Variable is 25th Point
+	25th Point Select Color GREEN
+Selected Variable is 26th Point
+	26th Point Select Color GREEN
+Selected Variable is 33th Point
+	33th Point Select Color YELLOW
+Selected Variable is 34th Point
+	34th Point Select Color GREEN
+Selected Variable is 47th Point
+	47th Point Select Color GREEN
+Selected Variable is 48th Point
+	47th Point Remove Color GREEN
+	34th Point Remove Color GREEN
+	33th Point Remove Color YELLOW
+	26th Point Remove Color GREEN
+	25th Point Remove Color GREEN
+	25th Point Select Color YELLOW
+Selected Variable is 26th Point
+	26th Point Select Color GREEN
+Selected Variable is 33th Point
+	33th Point Select Color YELLOW
+Selected Variable is 34th Point
+	34th Point Select Color GREEN
+Selected Variable is 47th Point
+	47th Point Select Color GREEN
+Selected Variable is 48th Point
+	47th Point Remove Color GREEN
+	34th Point Remove Color GREEN
+	33th Point Remove Color YELLOW
+	26th Point Remove Color GREEN
+	25th Point Remove Color YELLOW
+	24th Point Remove Color GREEN
+	22th Point Remove Color YELLOW
+	14th Point Remove Color YELLOW
+	12th Point Remove Color YELLOW
+	9th Point Remove Color GREEN
+	8th Point Remove Color YELLOW
+	4th Point Remove Color YELLOW
+	3th Point Remove Color YELLOW
+	2th Point Remove Color RED
+	2th Point Select Color GREEN
+Selected Variable is 3th Point
+	3th Point Select Color YELLOW
+Selected Variable is 4th Point
+	4th Point Select Color YELLOW
+Selected Variable is 8th Point
+	8th Point Select Color YELLOW
+Selected Variable is 9th Point
+	9th Point Select Color GREEN
+Selected Variable is 12th Point
+	12th Point Select Color GREEN
+Selected Variable is 14th Point
+	14th Point Select Color GREEN
+Selected Variable is 22th Point
+	22th Point Select Color YELLOW
+Selected Variable is 24th Point
+	24th Point Select Color YELLOW
+Selected Variable is 25th Point
+	25th Point Select Color GREEN
+Selected Variable is 26th Point
+	26th Point Select Color RED
+Selected Variable is 33th Point
+	26th Point Remove Color RED
+	25th Point Remove Color GREEN
+	25th Point Select Color YELLOW
+Selected Variable is 26th Point
+	26th Point Select Color RED
+Selected Variable is 33th Point
+	26th Point Remove Color RED
+	25th Point Remove Color YELLOW
+	24th Point Remove Color YELLOW
+	22th Point Remove Color YELLOW
+	14th Point Remove Color GREEN
+	14th Point Select Color YELLOW
+Selected Variable is 22th Point
+	22th Point Select Color YELLOW
+Selected Variable is 24th Point
+	24th Point Select Color GREEN
+Selected Variable is 25th Point
+	25th Point Select Color GREEN
+Selected Variable is 26th Point
+	26th Point Select Color RED
+Selected Variable is 33th Point
+	33th Point Select Color YELLOW
+Selected Variable is 34th Point
+	34th Point Select Color GREEN
+Selected Variable is 47th Point
+	47th Point Select Color GREEN
+Selected Variable is 48th Point
+	47th Point Remove Color GREEN
+	34th Point Remove Color GREEN
+	33th Point Remove Color YELLOW
+	26th Point Remove Color RED
+	25th Point Remove Color GREEN
+	25th Point Select Color YELLOW
+Selected Variable is 26th Point
+	26th Point Select Color RED
+Selected Variable is 33th Point
+	33th Point Select Color YELLOW
+Selected Variable is 34th Point
+	34th Point Select Color GREEN
+Selected Variable is 47th Point
+	47th Point Select Color GREEN
+Selected Variable is 48th Point
+	47th Point Remove Color GREEN
+	34th Point Remove Color GREEN
+	33th Point Remove Color YELLOW
+	26th Point Remove Color RED
+	25th Point Remove Color YELLOW
+	24th Point Remove Color GREEN
+	22th Point Remove Color YELLOW
+	14th Point Remove Color YELLOW
+	12th Point Remove Color GREEN
+	12th Point Select Color YELLOW
+Selected Variable is 14th Point
+	14th Point Select Color GREEN
+Selected Variable is 22th Point
+	22th Point Select Color YELLOW
+Selected Variable is 24th Point
+	24th Point Select Color YELLOW
+Selected Variable is 25th Point
+	25th Point Select Color GREEN
+Selected Variable is 26th Point
+	26th Point Select Color RED
+Selected Variable is 33th Point
+	26th Point Remove Color RED
+	25th Point Remove Color GREEN
+	25th Point Select Color YELLOW
+Selected Variable is 26th Point
+	26th Point Select Color RED
+Selected Variable is 33th Point
+	26th Point Remove Color RED
+	25th Point Remove Color YELLOW
+	24th Point Remove Color YELLOW
+	22th Point Remove Color YELLOW
+	14th Point Remove Color GREEN
+	14th Point Select Color YELLOW
+Selected Variable is 22th Point
+	22th Point Select Color YELLOW
+Selected Variable is 24th Point
+	24th Point Select Color GREEN
+Selected Variable is 25th Point
+	25th Point Select Color GREEN
+Selected Variable is 26th Point
+	26th Point Select Color RED
+Selected Variable is 33th Point
+	33th Point Select Color YELLOW
+Selected Variable is 34th Point
+	34th Point Select Color GREEN
+Selected Variable is 47th Point
+	47th Point Select Color GREEN
+Selected Variable is 48th Point
+	47th Point Remove Color GREEN
+	34th Point Remove Color GREEN
+	33th Point Remove Color YELLOW
+	26th Point Remove Color RED
+	25th Point Remove Color GREEN
+	25th Point Select Color YELLOW
+Selected Variable is 26th Point
+	26th Point Select Color RED
+Selected Variable is 33th Point
+	33th Point Select Color YELLOW
+Selected Variable is 34th Point
+	34th Point Select Color GREEN
+Selected Variable is 47th Point
+	47th Point Select Color GREEN
+Selected Variable is 48th Point
+	47th Point Remove Color GREEN
+	34th Point Remove Color GREEN
+	33th Point Remove Color YELLOW
+	26th Point Remove Color RED
+	25th Point Remove Color YELLOW
+	24th Point Remove Color GREEN
+	22th Point Remove Color YELLOW
+	14th Point Remove Color YELLOW
+	12th Point Remove Color YELLOW
+	9th Point Remove Color GREEN
+	8th Point Remove Color YELLOW
+	4th Point Remove Color YELLOW
+	3th Point Remove Color YELLOW
+	2th Point Remove Color GREEN
+	0th Point Remove Color GREEN
+	46th Point Remove Color YELLOW
+	39th Point Remove Color YELLOW
+	36th Point Remove Color YELLOW
+	35th Point Remove Color RED
+	35th Point Select Color YELLOW
+Selected Variable is 36th Point
+	36th Point Select Color YELLOW
+Selected Variable is 39th Point
+	39th Point Select Color GREEN
+Selected Variable is 46th Point
+	46th Point Select Color YELLOW
+Selected Variable is 0th Point
+	0th Point Select Color YELLOW
+Selected Variable is 2th Point
+	2th Point Select Color RED
+Selected Variable is 3th Point
+	3th Point Select Color YELLOW
+Selected Variable is 4th Point
+	4th Point Select Color YELLOW
+Selected Variable is 8th Point
+	8th Point Select Color GREEN
+Selected Variable is 9th Point
+	9th Point Select Color GREEN
+Selected Variable is 12th Point
+	12th Point Select Color GREEN
+Selected Variable is 14th Point
+	14th Point Select Color RED
+Selected Variable is 22th Point
+	22th Point Select Color YELLOW
+Selected Variable is 24th Point
+	24th Point Select Color GREEN
+Selected Variable is 25th Point
+	25th Point Select Color GREEN
+Selected Variable is 26th Point
+	26th Point Select Color GREEN
+Selected Variable is 33th Point
+	33th Point Select Color YELLOW
+Selected Variable is 34th Point
+	34th Point Select Color GREEN
+Selected Variable is 47th Point
+	47th Point Select Color GREEN
+Selected Variable is 48th Point
+	48th Point Select Color RED
+Selected Variable is 49th Point
+	49th Point Select Color GREEN
+Selected Variable is 5th Point
+	5th Point Select Color YELLOW
+Selected Variable is 11th Point
+	11th Point Select Color RED
+Selected Variable is 20th Point
+	20th Point Select Color YELLOW
+Selected Variable is 28th Point
+	28th Point Select Color GREEN
+Selected Variable is 30th Point
+	30th Point Select Color RED
+Selected Variable is 37th Point
+	37th Point Select Color YELLOW
+Selected Variable is 40th Point
+	40th Point Select Color RED
+Selected Variable is 41th Point
+	41th Point Select Color RED
+Selected Variable is 42th Point
+	42th Point Select Color RED
+Selected Variable is 44th Point
+	44th Point Select Color YELLOW
+Selected Variable is 38th Point
+	38th Point Select Color RED
+Selected Variable is 43th Point
+	43th Point Select Color RED
+Map Coloring using Backtracking is finished!!
+Backtracking time : 0.002s
+
+Start map Coloring using Backtracking using Foward check
+Selected Variable is 19th Point
+	19th Point Select Color RED
+	Foward Check: 12th Point Remove Color RED
+	Foward Check: 16th Point Remove Color RED
+	Foward Check: 28th Point Remove Color RED
+	Foward Check: 13th Point Remove Color RED
+	Foward Check: 20th Point Remove Color RED
+	Foward Check: 33th Point Remove Color RED
+	Foward Check: 44th Point Remove Color RED
+	Foward Check: 9th Point Remove Color RED
+Selected Variable is 13th Point
+	13th Point Select Color GREEN
+	Foward Check: 16th Point Remove Color GREEN
+	Foward Check: 48th Point Remove Color GREEN
+	Foward Check: 29th Point Remove Color GREEN
+Selected Variable is 16th Point
+	16th Point Select Color YELLOW
+	Foward Check: 33th Point Remove Color YELLOW
+	Foward Check: 35th Point Remove Color YELLOW
+Selected Variable is 33th Point
+	33th Point Select Color GREEN
+	Foward Check: 24th Point Remove Color GREEN
+Selected Variable is 29th Point
+	29th Point Select Color RED
+	Foward Check: 48th Point Remove Color RED
+	Foward Check: 43th Point Remove Color RED
+	Foward Check: 46th Point Remove Color RED
+	Foward Check: 23th Point Remove Color RED
+Selected Variable is 48th Point
+	48th Point Select Color YELLOW
+Selected Variable is 23th Point
+	23th Point Select Color GREEN
+	Foward Check: 34th Point Remove Color GREEN
+	Foward Check: 39th Point Remove Color GREEN
+	Foward Check: 3th Point Remove Color GREEN
+	Foward Check: 25th Point Remove Color GREEN
+	Foward Check: 46th Point Remove Color GREEN
+Selected Variable is 46th Point
+	46th Point Select Color YELLOW
+	Foward Check: 30th Point Remove Color YELLOW
+	Foward Check: 34th Point Remove Color YELLOW
+Selected Variable is 34th Point
+	34th Point Select Color RED
+	Foward Check: 30th Point Remove Color RED
+Selected Variable is 30th Point
+	30th Point Select Color GREEN
+Selected Variable is 35th Point
+	35th Point Select Color GREEN
+	Foward Check: 14th Point Remove Color GREEN
+Selected Variable is 39th Point
+	39th Point Select Color RED
+	Foward Check: 11th Point Remove Color RED
+	Foward Check: 42th Point Remove Color RED
+	Foward Check: 0th Point Remove Color RED
+Selected Variable is 0th Point
+	0th Point Select Color GREEN
+	Foward Check: 45th Point Remove Color GREEN
+	Foward Check: 8th Point Remove Color GREEN
+Selected Variable is 45th Point
+	45th Point Select Color RED
+	Foward Check: 21th Point Remove Color RED
+	Foward Check: 36th Point Remove Color RED
+	Foward Check: 31th Point Remove Color RED
+	Foward Check: 10th Point Remove Color RED
+Selected Variable is 21th Point
+	21th Point Select Color GREEN
+	Foward Check: 17th Point Remove Color GREEN
+	Foward Check: 31th Point Remove Color GREEN
+	Foward Check: 36th Point Remove Color GREEN
+	Foward Check: 1th Point Remove Color GREEN
+Selected Variable is 31th Point
+	31th Point Select Color YELLOW
+	Foward Check: 40th Point Remove Color YELLOW
+	Foward Check: 10th Point Remove Color YELLOW
+	Foward Check: 1th Point Remove Color YELLOW
+Selected Variable is 1th Point
+	1th Point Select Color RED
+	Foward Check: 7th Point Remove Color RED
+	Foward Check: 5th Point Remove Color RED
+	Foward Check: 18th Point Remove Color RED
+	Foward Check: 17th Point Remove Color RED
+Selected Variable is 10th Point
+	10th Point Select Color GREEN
+	Foward Check: 6th Point Remove Color GREEN
+	Foward Check: 15th Point Remove Color GREEN
+Selected Variable is 17th Point
+	17th Point Select Color YELLOW
+	Foward Check: 2th Point Remove Color YELLOW
+	Foward Check: 26th Point Remove Color YELLOW
+Selected Variable is 36th Point
+	36th Point Select Color YELLOW
+	Foward Check: 9th Point Remove Color YELLOW
+Selected Variable is 9th Point
+	9th Point Select Color GREEN
+	Foward Check: 37th Point Remove Color GREEN
+Selected Variable is 15th Point
+	15th Point Select Color RED
+	Foward Check: 8th Point Remove Color RED
+	Foward Check: 47th Point Remove Color RED
+	Foward Check: 6th Point Remove Color RED
+	Foward Check: 22th Point Remove Color RED
+	Foward Check: 32th Point Remove Color RED
+Selected Variable is 6th Point
+	6th Point Select Color YELLOW
+	Foward Check: 47th Point Remove Color YELLOW
+Selected Variable is 8th Point
+	8th Point Select Color YELLOW
+	Foward Check: 38th Point Remove Color YELLOW
+Selected Variable is 47th Point
+	47th Point Select Color GREEN
+	Foward Check: 18th Point Remove Color GREEN
+Selected Variable is 18th Point
+	18th Point Select Color YELLOW
+	Foward Check: 27th Point Remove Color YELLOW
+	Foward Check: 7th Point Remove Color YELLOW
+Selected Variable is 7th Point
+	7th Point Select Color GREEN
+	Foward Check: 4th Point Remove Color GREEN
+	Foward Check: 27th Point Remove Color GREEN
+Selected Variable is 27th Point
+	27th Point Select Color RED
+	Foward Check: 4th Point Remove Color RED
+	Foward Check: 49th Point Remove Color RED
+Selected Variable is 4th Point
+	4th Point Select Color YELLOW
+	Foward Check: 49th Point Remove Color YELLOW
+Selected Variable is 49th Point
+	49th Point Select Color GREEN
+Selected Variable is 32th Point
+	32th Point Select Color GREEN
+	Foward Check: 11th Point Remove Color GREEN
+	Foward Check: 22th Point Remove Color GREEN
+Selected Variable is 22th Point
+	22th Point Select Color YELLOW
+Selected Variable is 11th Point
+	11th Point Select Color YELLOW
+Selected Variable is 2th Point
+	2th Point Select Color RED
+	Foward Check: 26th Point Remove Color RED
+Selected Variable is 26th Point
+	26th Point Select Color GREEN
+	Foward Check: 5th Point Remove Color GREEN
+Selected Variable is 5th Point
+	5th Point Select Color YELLOW
+Selected Variable is 3th Point
+	3th Point Select Color RED
+Selected Variable is 12th Point
+	12th Point Select Color GREEN
+	Foward Check: 20th Point Remove Color GREEN
+	Foward Check: 44th Point Remove Color GREEN
+Selected Variable is 20th Point
+	20th Point Select Color YELLOW
+Selected Variable is 44th Point
+	44th Point Select Color YELLOW
+Selected Variable is 14th Point
+	14th Point Select Color RED
+	Foward Check: 37th Point Remove Color RED
+	Foward Check: 24th Point Remove Color RED
+Selected Variable is 24th Point
+	24th Point Select Color YELLOW
+Selected Variable is 37th Point
+	37th Point Select Color YELLOW
+Selected Variable is 25th Point
+	25th Point Select Color RED
+	Foward Check: 41th Point Remove Color RED
+Selected Variable is 28th Point
+	28th Point Select Color GREEN
+	Foward Check: 41th Point Remove Color GREEN
+Selected Variable is 41th Point
+	41th Point Select Color YELLOW
+Selected Variable is 40th Point
+	40th Point Select Color RED
+Selected Variable is 42th Point
+	42th Point Select Color GREEN
+Selected Variable is 38th Point
+	38th Point Select Color RED
+Selected Variable is 43th Point
+	43th Point Select Color GREEN
+Map Coloring using Backtracking using Foward check is finished!!
+Backtracking using Foward check time : 0.001s
+
+Start map Coloring using Backtracking using Arc Consistency
+Selected Variable is 19th Point
+	19th Point Select Color RED
+	Foward Check: 12th Point Remove Color RED
+	Foward Check: 16th Point Remove Color RED
+	Foward Check: 28th Point Remove Color RED
+	Foward Check: 13th Point Remove Color RED
+	Foward Check: 20th Point Remove Color RED
+	Foward Check: 33th Point Remove Color RED
+	Foward Check: 44th Point Remove Color RED
+	Foward Check: 9th Point Remove Color RED
+Selected Variable is 13th Point
+	13th Point Select Color GREEN
+	Foward Check: 16th Point Remove Color GREEN
+	Foward Check: 48th Point Remove Color GREEN
+	Foward Check: 29th Point Remove Color GREEN
+Selected Variable is 16th Point
+	16th Point Select Color YELLOW
+	Foward Check: 33th Point Remove Color YELLOW
+	Foward Check: 35th Point Remove Color YELLOW
+Selected Variable is 33th Point
+	33th Point Select Color GREEN
+	Foward Check: 24th Point Remove Color GREEN
+Selected Variable is 29th Point
+	29th Point Select Color RED
+	Foward Check: 48th Point Remove Color RED
+	Foward Check: 43th Point Remove Color RED
+	Foward Check: 46th Point Remove Color RED
+	Foward Check: 23th Point Remove Color RED
+Selected Variable is 48th Point
+	48th Point Select Color YELLOW
+Selected Variable is 23th Point
+	23th Point Select Color GREEN
+	Foward Check: 34th Point Remove Color GREEN
+	Foward Check: 39th Point Remove Color GREEN
+	Foward Check: 3th Point Remove Color GREEN
+	Foward Check: 25th Point Remove Color GREEN
+	Foward Check: 46th Point Remove Color GREEN
+Selected Variable is 46th Point
+	46th Point Select Color YELLOW
+	Foward Check: 30th Point Remove Color YELLOW
+	Foward Check: 34th Point Remove Color YELLOW
+Selected Variable is 34th Point
+	34th Point Select Color RED
+	Foward Check: 30th Point Remove Color RED
+Selected Variable is 30th Point
+	30th Point Select Color GREEN
+Selected Variable is 35th Point
+	35th Point Select Color GREEN
+	Foward Check: 14th Point Remove Color GREEN
+Selected Variable is 39th Point
+	39th Point Select Color RED
+	Foward Check: 11th Point Remove Color RED
+	Foward Check: 42th Point Remove Color RED
+	Foward Check: 0th Point Remove Color RED
+Selected Variable is 0th Point
+	0th Point Select Color GREEN
+	Foward Check: 45th Point Remove Color GREEN
+	Foward Check: 8th Point Remove Color GREEN
+Selected Variable is 45th Point
+	45th Point Select Color RED
+	Foward Check: 21th Point Remove Color RED
+	Foward Check: 36th Point Remove Color RED
+	Foward Check: 31th Point Remove Color RED
+	Foward Check: 10th Point Remove Color RED
+Selected Variable is 21th Point
+	21th Point Select Color GREEN
+	Foward Check: 17th Point Remove Color GREEN
+	Foward Check: 31th Point Remove Color GREEN
+	Foward Check: 36th Point Remove Color GREEN
+	Foward Check: 1th Point Remove Color GREEN
+Selected Variable is 31th Point
+	31th Point Select Color YELLOW
+	Foward Check: 40th Point Remove Color YELLOW
+	Foward Check: 10th Point Remove Color YELLOW
+	Foward Check: 1th Point Remove Color YELLOW
+Selected Variable is 1th Point
+	1th Point Select Color RED
+	Foward Check: 7th Point Remove Color RED
+	Foward Check: 5th Point Remove Color RED
+	Foward Check: 18th Point Remove Color RED
+	Foward Check: 17th Point Remove Color RED
+Selected Variable is 10th Point
+	10th Point Select Color GREEN
+	Foward Check: 6th Point Remove Color GREEN
+	Foward Check: 15th Point Remove Color GREEN
+Selected Variable is 17th Point
+	17th Point Select Color YELLOW
+	Foward Check: 2th Point Remove Color YELLOW
+	Foward Check: 26th Point Remove Color YELLOW
+Selected Variable is 36th Point
+	36th Point Select Color YELLOW
+	Foward Check: 9th Point Remove Color YELLOW
+Selected Variable is 9th Point
+	9th Point Select Color GREEN
+	Foward Check: 37th Point Remove Color GREEN
+Selected Variable is 15th Point
+	15th Point Select Color RED
+	Foward Check: 8th Point Remove Color RED
+	Foward Check: 47th Point Remove Color RED
+	Foward Check: 6th Point Remove Color RED
+	Foward Check: 22th Point Remove Color RED
+	Foward Check: 32th Point Remove Color RED
+Selected Variable is 6th Point
+	6th Point Select Color YELLOW
+	Foward Check: 47th Point Remove Color YELLOW
+Selected Variable is 8th Point
+	8th Point Select Color YELLOW
+	Foward Check: 38th Point Remove Color YELLOW
+Selected Variable is 47th Point
+	47th Point Select Color GREEN
+	Foward Check: 18th Point Remove Color GREEN
+Selected Variable is 18th Point
+	18th Point Select Color YELLOW
+	Foward Check: 27th Point Remove Color YELLOW
+	Foward Check: 7th Point Remove Color YELLOW
+Selected Variable is 7th Point
+	7th Point Select Color GREEN
+	Foward Check: 4th Point Remove Color GREEN
+	Foward Check: 27th Point Remove Color GREEN
+Selected Variable is 27th Point
+	27th Point Select Color RED
+	Foward Check: 4th Point Remove Color RED
+	Foward Check: 49th Point Remove Color RED
+Selected Variable is 4th Point
+	4th Point Select Color YELLOW
+	Foward Check: 49th Point Remove Color YELLOW
+Selected Variable is 49th Point
+	49th Point Select Color GREEN
+Selected Variable is 32th Point
+	32th Point Select Color GREEN
+	Foward Check: 11th Point Remove Color GREEN
+	Foward Check: 22th Point Remove Color GREEN
+Selected Variable is 22th Point
+	22th Point Select Color YELLOW
+Selected Variable is 11th Point
+	11th Point Select Color YELLOW
+Selected Variable is 2th Point
+	2th Point Select Color RED
+	Foward Check: 26th Point Remove Color RED
+Selected Variable is 26th Point
+	26th Point Select Color GREEN
+	Foward Check: 5th Point Remove Color GREEN
+Selected Variable is 5th Point
+	5th Point Select Color YELLOW
+Selected Variable is 3th Point
+	3th Point Select Color RED
+Selected Variable is 12th Point
+	12th Point Select Color GREEN
+	Foward Check: 20th Point Remove Color GREEN
+	Foward Check: 44th Point Remove Color GREEN
+Selected Variable is 20th Point
+	20th Point Select Color YELLOW
+Selected Variable is 44th Point
+	44th Point Select Color YELLOW
+Selected Variable is 14th Point
+	14th Point Select Color RED
+	Foward Check: 37th Point Remove Color RED
+	Foward Check: 24th Point Remove Color RED
+Selected Variable is 24th Point
+	24th Point Select Color YELLOW
+Selected Variable is 37th Point
+	37th Point Select Color YELLOW
+Selected Variable is 25th Point
+	25th Point Select Color RED
+	Foward Check: 41th Point Remove Color RED
+Selected Variable is 28th Point
+	28th Point Select Color GREEN
+	Foward Check: 41th Point Remove Color GREEN
+Selected Variable is 41th Point
+	41th Point Select Color YELLOW
+Selected Variable is 40th Point
+	40th Point Select Color RED
+Selected Variable is 42th Point
+	42th Point Select Color GREEN
+Selected Variable is 38th Point
+	38th Point Select Color RED
+Selected Variable is 43th Point
+	43th Point Select Color GREEN
+Map Coloring using Backtracking using Arc Consistency is finished!!
+Backtracking using Arc Consistency time : 0.001s
